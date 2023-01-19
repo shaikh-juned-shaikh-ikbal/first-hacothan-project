@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.container{
+    align-content: center;
+    justify-content: center;
+    display: flex;
+    margin: auto ;
+    margin-top: 70px;
+    border: solid 2px red;
+    width: 500px;
+    height: 500px;
+}
